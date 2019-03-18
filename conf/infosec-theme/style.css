@@ -79,6 +79,7 @@ a {
   height: 16px;
   width: 16px; }
 
+.error,
 .files {
   margin-top: 1.3rem; }
 
@@ -152,6 +153,15 @@ a {
     display: none; }
   }
 
+.error h1 {
+  font-size: 2em;}
+
+.error errorCode {
+  font-size: 4em;}
+
+.error p {
+  }
+  
 .footer {
   padding-top: 1.2rem;
   padding-bottom: 1.0rem;
