@@ -156,11 +156,15 @@ a {
 .error h1 {
   font-size: 2em;}
 
-.error errorCode {
+.error .errorCode {
   font-size: 4em;}
 
 .error p {
   }
+  
+.error .errorVideo {
+  padding-top: 2em;
+  text-align:center;}
   
 .footer {
   padding-top: 1.2rem;
