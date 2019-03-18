@@ -1,3 +1,11 @@
+/*
+ * INFOSEC-THEME - Apache directory listing
+ * (c) 2019 Marko Jung
+ *
+ * based on SIMPLE by 2017 Miroslav Pokorný
+ * https://miroslavpokorny.com/simple-apache-directory-listing-theme
+ */
+
 @font-face {
   font-family: 'source_sans_proregular';
   src: url("fonts/sourcesanspro-regular.woff2") format("woff2"), url("fonts/sourcesanspro-regular.woff") format("woff");
@@ -128,7 +136,7 @@ a {
   text-align: center; }
   .footer a {
     cursor: default;
-    background: url("favicons/logo28x28.png") no-repeat;
+    background: url("infosec-logo-small.png") no-repeat;
     display: inline-block;
-    height: 28px;
-    width: 28px; }
+    height: 192px;
+    width: 60px; }
