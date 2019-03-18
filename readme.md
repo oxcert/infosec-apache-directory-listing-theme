@@ -27,5 +27,5 @@ If you have trouble running `.htaccess` version, try to look at `AllowOverride` 
 
 ## Footnotes ##
 
-Original theme by [Miroslav Pokorný](https://miroslavpokorny.com/simple-apache-directory-listing-theme).
+Original theme by [Miroslav Pokorný](https://miroslavpokorny.com/simple-apache-directory-listing-theme),
 Icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com).
