@@ -81,7 +81,7 @@ a {
 
 .error,
 .files {
-  margin-top: 1.3rem; }
+    margin-top: 1.3rem; }
 
 .files table {
   border-collapse: collapse;
@@ -153,17 +153,25 @@ a {
     display: none; }
   }
 
+.error{
+  max-width: 900px;
+  width: 85%;
+  margin: 0 auto;}
+
 .error h1 {
+  margin-bottom: 0;
   font-size: 2em;}
 
 .error .errorCode {
-  font-size: 4em;}
+  font-size: 4em;
+  font-weight: bolder;}
 
 .error p {
   }
   
 .error .errorVideo {
   padding-top: 2em;
+  padding-bottom: 4em;
   text-align:center;}
   
 .footer {
