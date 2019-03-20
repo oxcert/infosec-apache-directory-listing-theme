@@ -1,0 +1,12 @@
+infosec-apache-directory-listing-theme (0.2) unstable; urgency=medium
+
+  * Adding error documents
+
+ -- Kristian Kocher <kristian.kocher@it.ox.ac.uk>  Tue, 19 Mar 2019 15:06:19 +0000
+
+infosec-apache-directory-listing-theme (0.1) unstable; urgency=low
+
+  * First debian package of infosec apache directory listing theme
+
+ -- Kristian Kocher <kristian.kocher@infosec.ox.ac.uk>  Mon, 18 Mar 2019 11:55:03 +0000
+

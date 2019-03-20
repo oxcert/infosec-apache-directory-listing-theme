@@ -1,0 +1,12 @@
+Source: infosec-apache-directory-listing-theme
+Section: web
+Priority: optional
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.0.1
+Maintainer: University of Oxford CERT <oxcert@infosec.ox.ac.uk>
+Uploaders: Kristian Kocher <kristian.kocher@infosec.ox.ac.uk>
+
+Package: infosec-apache-directory-listing-theme
+Architecture: all
+Depends: apache2
+Description: Theme for apache directory listings
